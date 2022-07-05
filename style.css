@@ -73,11 +73,13 @@ h2 {
     border-left: 7px solid tomato;
     padding-left: 2%;
     margin-left: 5%;
+    border-radius: 10px;
 }
 #bstack{
     border-left: 7px solid blue;
     padding-left: 2%;
     margin-left: 5%;
+    border-radius: 10px;
 }
 footer{
     color: dimgray;
